@@ -9,7 +9,7 @@
 ## git
 
 ## andriod
-	* [androidweekly](http://androidweekly.net/)[[中文翻译项目](https://github.com/AWCNTT/ArticleTranslateProject)]
+ * [androidweekly](http://androidweekly.net/)[[中文翻译项目](https://github.com/AWCNTT/ArticleTranslateProject)]
  * [apkbus](http://www.apkbus.com/)
  * [老罗的Android之旅](http://blog.csdn.net/Luoshengyang/article/list/6)
  * [任玉刚的csdn博客](http://blog.csdn.net/singwhatiwanna/article/list/6)
@@ -19,5 +19,5 @@
  * [android stackoverflow](http://stackoverflow.com/tags/android/info)
  * [What’s Your Intent?](http://ryanharter.com/blog/2014/11/26/whats-your-intent/)[intent和url概念的简单比较]
 
-	### 性能
-		* [看看效果](http://www.baidu.com)
+  ### 性能
+   * [看看效果](http://www.baidu.com)
