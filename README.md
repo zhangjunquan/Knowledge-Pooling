@@ -18,5 +18,6 @@
  * [Android Development - 社群 - Google+](https://plus.google.com/communities/105153134372062985968)
  * [android stackoverflow](http://stackoverflow.com/tags/android/info)
  * [What’s Your Intent?](http://ryanharter.com/blog/2014/11/26/whats-your-intent/)[intent和url概念的简单比较]
+ 
  ### 性能
   * 看看效果
