@@ -78,6 +78,7 @@
  * [java memory leaks](http://iwillgetthatjobatgoogle.tumblr.com/post/12591334729/java-memory-leaks)
  * [How to reverse a String in Java?](http://kodingexamples.blogspot.com/2014/04/how-to-reverse-string-in-java.html)
  * [Cloneable 和 clone()的总结和使用](http://ncs123.iteye.com/blog/1775631)
+ * [Java8 日期/时间（Date Time）API指南](http://www.importnew.com/14140.html)
  
  ### 设计模式 & 重构
   * [Design Patterns & Refactoring](http://sourcemaking.com/)
@@ -87,6 +88,7 @@
 
 
 ## andriod
+ * [书呆子博客](http://www.bignerdranch.com/blog/)
  * [android developer](http://developer.android.com/index.html)
  * [androidweekly](http://androidweekly.net/)[[中文翻译项目](https://github.com/AWCNTT/ArticleTranslateProject)]
  * [安卓 - 伯乐在线](http://android.jobbole.com/)
@@ -122,6 +124,8 @@
  * [ANDROID 探究oom内幕](http://my.oschina.net/gavinjin/blog/208046)
  * [Android任务和返回栈完全解析，细数那些你所不知道的细节](http://blog.csdn.net/guolin_blog/article/details/41087993)
  * [我理解的Android加载器](http://www.cnblogs.com/yjf512/p/3232867.html)
+ * [说说PendingIntent的内部机制](http://my.oschina.net/youranhongcha/blog/196933?p=1)
+ * [android PendingIntent：有用的requestCode参数](http://harvey8819.blog.163.com/blog/static/162365181201132691559986/)
  * [Android开发陷阱：利用PendingIntent传递唯一的Intent](http://zhiweiofli.iteye.com/blog/1972513)
  * [AndroidStudio单元测试——instrumentation](http://blog.csdn.net/harvic880925/article/details/38060361)
  * [Android开源项目(二)](http://blog.ithi.net/wordpress/?p=153)
@@ -147,6 +151,13 @@
  * [Google I/O 2011: Memory management for Android Apps - YouTube](https://www.youtube.com/watch?v=_CruQY55HOk)
  * [Handling Android resources with non-standard formats](http://blog.danlew.net/2015/01/06/handling-android-resources-with-non-standard-formats/)
  * [学Android开发的人可以去的几个网站](http://liangruijun.blog.51cto.com/3061169/623555)
+ * [25个你应该阅读的Android网站](http://www.iteye.com/news/5516-25-you-should-read-the-android-site)
+ * [ContentProvider总结(Android)](http://blog.csdn.net/chuyuqing/article/details/39995607)
+ * [Getting Started with Activity & Fragment Transitions (part 1)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html)
+ * [Android推送服务——百度云推送](http://ryantang.me/blog/2013/08/06/baidu-push-service/)
+ * [Android中Activity启动模式详解](http://www.cnblogs.com/fanchangfa/archive/2012/08/25/2657012.html)
+ * [Application、Activity Stack 和 Task的区别](http://www.cnblogs.com/hnrainll/archive/2012/12/18/2823064.html)
+ * [Activity详解（生命周期、以各种方式启动Activity、状态保存，完全退出等）](http://blog.csdn.net/tangcheng_ok/article/details/6755194)
 
  ### android - 性能
   * [android官方博客-内存分析](android-developers.blogspot.com/2011/03/memory-analysis-for-android.html)
