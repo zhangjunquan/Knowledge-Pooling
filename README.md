@@ -7,6 +7,7 @@
  	[[oschina](http://git.oschina.net/softwater/Knowledge-Pooling/blob/master/README.md)]
  	[[github](https://github.com/zjq125/Knowledge-Pooling/blob/master/README.md)]
  * 我的github[[oschina](http://git.oschina.net/softwater)][[github](https://github.com/zjq125)]
+ * [我的博客](http://www.cnblogs.com/soft-water/)
 
 
 
@@ -155,9 +156,7 @@
  * [ContentProvider总结(Android)](http://blog.csdn.net/chuyuqing/article/details/39995607)
  * [Getting Started with Activity & Fragment Transitions (part 1)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html)
  * [Android推送服务——百度云推送](http://ryantang.me/blog/2013/08/06/baidu-push-service/)
- * [Android中Activity启动模式详解](http://www.cnblogs.com/fanchangfa/archive/2012/08/25/2657012.html)
- * [Application、Activity Stack 和 Task的区别](http://www.cnblogs.com/hnrainll/archive/2012/12/18/2823064.html)
- * [Activity详解（生命周期、以各种方式启动Activity、状态保存，完全退出等）](http://blog.csdn.net/tangcheng_ok/article/details/6755194)
+ * [Activity启动模式](http://www.cnblogs.com/soft-water/p/4303951.html)
 
  ### android - 性能
   * [android官方博客-内存分析](android-developers.blogspot.com/2011/03/memory-analysis-for-android.html)
