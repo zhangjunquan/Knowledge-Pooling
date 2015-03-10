@@ -140,7 +140,6 @@
 ## Contributing
  若您也是贡献者，请自行签上您的大名！
  * 君子乐道
-    [[博客地址](http://www.cnblogs.com/soft-water/)]
     [[github](https://github.com/zjq125)]
     [[oschina](http://git.oschina.net/softwater)]
 
