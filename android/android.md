@@ -75,7 +75,6 @@
   	[[中文翻译](http://www.infoq.com/cn/news/2015/01/google-android-performance)]
   * [Android性能优化典范 - 胡凯](http://hukai.me/android-performance-patterns/)
   * Android性能优化案例研究[[上](http://www.importnew.com/3784.html)][[下](http://www.importnew.com/4065.html)]
-  * [android 布局优化](http://www.lightskystreet.com/2015/01/19/android-layout-optimize/)
   * [android 代码优化小技巧](http://www.lightskystreet.com/2015/01/17/android-code-optimize-tips/)
   * [Android：一个高效的UI才是一个拉风的UI（一）](http://android.jobbole.com/78189/)
   * [Layout Inflation不能这么用](http://android.jobbole.com/72156/)
@@ -91,3 +90,8 @@
   * [auto-parcel](https://github.com/frankiesardo/auto-parcel)
   * [JazzyListView](https://github.com/twotoasters/JazzyListView)
   * [wasabeef](https://github.com/wasabeef)
+
+# android高质量博客站点
+ * [lightskystreet](http://www.lightskystreet.com/)[[github](https://github.com/lightSky)]
+ * [性能优化系列总篇](http://www.trinea.cn/android/performance/)
+ * [activity与fragment生命周期图](https://github.com/xxv/android-lifecycle)
